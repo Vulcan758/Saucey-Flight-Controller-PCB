@@ -11,8 +11,7 @@ The goal of this project was to design a smart flight controller board with a cr
 
 ## PCB Schematic
 
-![0db240ba_1](https://github.com/user-attachments/assets/151f8761-880f-4179-ab0c-047402e5c54c)
-
+![Screenshot from 2024-10-22 01-19-56](https://github.com/user-attachments/assets/9900d4ee-9892-4901-be97-0f04fd681747)
 
 ## PCB Layout
 
